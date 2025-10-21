@@ -1,6 +1,6 @@
 ---
 title: "My Document"
-author: "Deden Istiawan-Institut Teknologi Statistika dan Bisnis Muhammadiyah"
+author: "Naela rohayati"
 date: "`r Sys.Date()`"
 output: 
   html_document:
